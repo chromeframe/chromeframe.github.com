@@ -1,4 +1,6 @@
 chromeframe.github.com
 ======================
 
-chromeframe persian website - http://chromeframe.ir
+persian chrome frame page
+
+find it @ chromeframe.ir
